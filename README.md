@@ -1,5 +1,10 @@
-# MyFirstApp
-
+# Recipe Book Management System
+The application is a time saver providing recipes in few clicks. 
+The users are given choice to create recipe, view recipe and delete recipe. The interface is clean and simple.
+The website don’t required any username and password. so every one can see the website.
+Recipe: it consists of two modules. Recipes and Shopping list. 
+Recipes: here user can View the existing recipes or Add the recipe into the website. 
+Shopping list: ingredients to be purchased can viewed here. user can add or delete the ingredients.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
